@@ -1,7 +1,9 @@
-odule.exports = {
+module.exports = {
 	extends: ["eslint:recommended", "plugin:prettier/recommended"],
 	rules: {
 		"arrow-body-style": ["error"],
+		"no-dupe-args": true,
+		"no-dupe-class-members": true,
 		"no-template-curly-in-string": "error",
 		"no-useless-concat": "error",
 		"no-useless-escape": "off",
@@ -10,8 +12,9 @@ odule.exports = {
 		"prefer-arrow-callback": ["error", { allowNamedFunctions: true }],
 		"prefer-const": "error",
 		"prefer-template": "error",
-		quotes: ["error", "single", { avoidEscape: true }],
 		"template-curly-spacing": "error",
 		"template-tag-spacing": "error",
+		quotes: ["error", "single", { avoidEscape: true }],
+		"valid-typeof": true,
 	},
 };
