@@ -4,6 +4,7 @@ module.exports = {
 		"arrow-body-style": ["error"],
 		"no-dupe-args": true,
 		"no-dupe-class-members": true,
+		"no-duplicate-imports": true,
 		"no-template-curly-in-string": "error",
 		"no-useless-concat": "error",
 		"no-useless-escape": "off",
