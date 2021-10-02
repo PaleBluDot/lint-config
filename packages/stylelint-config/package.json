@@ -1,0 +1,30 @@
+{
+	"name": "@palebludot/stylelint-config",
+	"version": "0.1.0",
+	"description": "configuration for Stylelint",
+	"keywords": [
+		"stylelint"
+	],
+	"author": "Pavel Sanchez",
+	"license": "MIT",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PaleBluDot/lint-config.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	},
+	"dependencies": {
+		"stylelint-config-standard": "^22.0.0"
+	},
+	"peerDependencies": {
+		"stylelint": "^13.13.1"
+	}
+}
