@@ -1,0 +1,27 @@
+{
+	"name": "@palebludot/prettier-config",
+	"version": "0.1.0",
+	"description": "personal configuration for prettier",
+	"keywords": [
+		"prettier"
+	],
+	"author": "Pavel Sanchez",
+	"license": "MIT",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PaleBluDot/lint-config.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	},
+	"peerDependencies": {
+		"prettier": "^2.4.1"
+	}
+}
