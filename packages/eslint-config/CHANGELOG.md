@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/PaleBluDot/lint-config/compare/@palebludot/eslint-config@0.1.1...@palebludot/eslint-config@0.2.0) (2021-10-02)
+
+
+### Features
+
+* new rule ([7fc28f4](https://github.com/PaleBluDot/lint-config/commit/7fc28f4727ae7b071eddde6c977d9399b1f318be))
+
+
+
+
+
 ## [0.1.1](https://github.com/PaleBluDot/lint-config/compare/@palebludot/eslint-config@0.1.0...@palebludot/eslint-config@0.1.1) (2021-10-02)
 
 
