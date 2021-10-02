@@ -1,0 +1,30 @@
+{
+	"name": "@palebludot/eslint-config",
+	"version": "0.0.1",
+	"description": "Personal ES Lint configuration.",
+	"keywords": [
+		"eslint"
+	],
+	"author": "Pavel Sanchez",
+	"license": "MIT",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PaleBluDot/lint-config.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	},
+	"peerDependencies": {
+		"eslint": "^7.32.0"
+	},
+	"dependencies": {
+		"eslint-plugin-prettier": "^4.0.0"
+	}
+}
