@@ -2,5 +2,11 @@
 	"packages": ["packages/*"],
 	"version": "independent",
 	"npmClient": "yarn",
-	"useWorkspace": true
+	"useWorkspace": true,
+	"command": {
+		"publish": {
+			"conventionalCommits": true,
+			"yes": true
+		}
+	}
 }
