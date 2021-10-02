@@ -1,11 +1,11 @@
 # `prettier-config`
 
-> TODO: description
-
 ## Usage
 
-```
-const prettierConfig = require('prettier-config');
+In your `package.json` file. You can extend the current package.
 
-// TODO: DEMONSTRATE API
+```
+{
+  "prettier": "@palebludot/prettier-config"
+}
 ```

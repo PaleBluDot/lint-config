@@ -1,11 +1,11 @@
 # `stylelint-config`
 
-> TODO: description
-
 ## Usage
 
-```
-const stylelintConfig = require('stylelint-config');
+in your `.styleintrc` file. You can extend the current package.
 
-// TODO: DEMONSTRATE API
+```
+{
+	"extends": "@palebludot/stylelint-config"
+}
 ```
