@@ -1,6 +1,6 @@
 {
 	"name": "@palebludot/eslint-config",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"description": "Personal ES Lint configuration.",
 	"keywords": [
 		"eslint"
