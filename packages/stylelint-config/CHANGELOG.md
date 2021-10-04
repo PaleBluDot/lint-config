@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/PaleBluDot/lint-config/compare/@palebludot/stylelint-config@1.0.4...@palebludot/stylelint-config@1.0.5) (2021-10-04)
+
+
+### Bug Fixes
+
+* remove stardard config ([c9f4f04](https://github.com/PaleBluDot/lint-config/commit/c9f4f04771b7ea08cf3fd73a467fa8ebf92633f6))
+
+
+
+
+
 ## [1.0.4](https://github.com/PaleBluDot/lint-config/compare/@palebludot/stylelint-config@1.0.3...@palebludot/stylelint-config@1.0.4) (2021-10-04)
 
 
