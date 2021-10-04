@@ -22,9 +22,7 @@
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
 	"dependencies": {
-		"stylelint-config-standard": "^22.0.0"
-	},
-	"peerDependencies": {
+		"stylelint-config-standard": "^22.0.0",
 		"stylelint": "^13.13.1"
 	},
 	"gitHead": "cacda1b5252a946d9251ffb2aa10262a4ee84dd6"

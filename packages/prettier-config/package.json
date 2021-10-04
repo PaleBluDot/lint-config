@@ -21,7 +21,7 @@
 	"scripts": {
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
-	"peerDependencies": {
+	"dependencies": {
 		"prettier": "^2.4.1"
 	},
 	"gitHead": "cacda1b5252a946d9251ffb2aa10262a4ee84dd6"

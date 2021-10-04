@@ -21,10 +21,8 @@
 	"scripts": {
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
-	"peerDependencies": {
-		"eslint": "^7.32.0"
-	},
 	"dependencies": {
+		"eslint": "^7.32.0",
 		"eslint-plugin-prettier": "^4.0.0"
 	}
 }
