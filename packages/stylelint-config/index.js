@@ -21,7 +21,6 @@ module.exports = {
 		"rule-empty-line-before": "always",
 		"selector-pseudo-element-colon-notation": "single",
 		"selector-pseudo-class-parentheses-space-inside": "never",
-		"selector-no-vendor-prefix": "true",
 		"media-feature-range-operator-space-before": "never",
 		"media-feature-range-operator-space-after": "never",
 		"media-feature-parentheses-space-inside": "never",
