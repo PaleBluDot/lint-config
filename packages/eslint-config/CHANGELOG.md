@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/PaleBluDot/lint-config/compare/@palebludot/eslint-config@0.3.2...@palebludot/eslint-config@0.4.0) (2021-10-06)
+
+
+### Features
+
+* add USERDOMAIN=SURFACE ([a0b5952](https://github.com/PaleBluDot/lint-config/commit/a0b5952a5c7ecfe14399c1a051dbccd91ba2f924))
+
+
+
+
+
 ## [0.3.2](https://github.com/PaleBluDot/lint-config/compare/@palebludot/eslint-config@0.3.1...@palebludot/eslint-config@0.3.2) (2021-10-06)
 
 
