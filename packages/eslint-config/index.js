@@ -3,6 +3,9 @@ module.exports = {
 		browser: true,
 		es2020: true,
 	},
+	parserOptions: {
+		ecmaVersion: 2017,
+	},
 	extends: ["eslint:recommended"],
 	rules: {
 		"arrow-body-style": ["error"],
