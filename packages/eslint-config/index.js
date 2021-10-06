@@ -1,5 +1,5 @@
 module.exports = {
-	extends: ["eslint:recommended", "plugin:prettier/recommended"],
+	extends: ["eslint:recommended"],
 	rules: {
 		"arrow-body-style": ["error"],
 		"no-dupe-args": 2,

@@ -22,7 +22,6 @@
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
 	"dependencies": {
-		"eslint": "^7.32.0",
-		"eslint-plugin-prettier": "^4.0.0"
+		"eslint": "^7.32.0"
 	}
 }
