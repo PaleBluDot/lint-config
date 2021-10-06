@@ -1,8 +1,6 @@
 module.exports = {
 	rules: {
-		indentation: "space",
 		"string-quotes": "single",
-		"no-duplicate-selectors": "true",
 		"color-hex-case": "lower",
 		"color-hex-length": "long",
 		"color-named": "never",
@@ -12,7 +10,6 @@ module.exports = {
 		"selector-attribute-operator-space-after": "never",
 		"selector-attribute-brackets-space-inside": "never",
 		"declaration-block-trailing-semicolon": "always",
-		"declaration-no-important": "true",
 		"declaration-colon-space-before": "never",
 		"declaration-colon-space-after": "always",
 		"number-leading-zero": "always",
@@ -28,7 +25,6 @@ module.exports = {
 		"media-feature-range-operator-space-before": "never",
 		"media-feature-range-operator-space-after": "never",
 		"media-feature-parentheses-space-inside": "never",
-		"media-feature-name-no-vendor-prefix": "true",
 		"media-feature-colon-space-before": "never",
 		"media-feature-colon-space-after": "always",
 	},
