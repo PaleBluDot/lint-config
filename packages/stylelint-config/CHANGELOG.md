@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/PaleBluDot/lint-config/compare/@palebludot/stylelint-config@1.0.5...@palebludot/stylelint-config@1.0.6) (2021-10-06)
+
+
+### Bug Fixes
+
+* remove invalid rules ([09d6fc3](https://github.com/PaleBluDot/lint-config/commit/09d6fc3515da0f30ca7b8a068b9cb2f60b30ed95))
+
+
+
+
+
 ## [1.0.5](https://github.com/PaleBluDot/lint-config/compare/@palebludot/stylelint-config@1.0.4...@palebludot/stylelint-config@1.0.5) (2021-10-04)
 
 
